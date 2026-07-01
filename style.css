@@ -97,6 +97,7 @@ input:focus{
     height: 5%;
     text-align: center;
     align-items: center;
+    color: var(--second-text);
 }
 
 .logo{
@@ -145,7 +146,7 @@ input:focus{
 }
 
 .exit{
-    width: 100%;
+    width: 95%;
     height: 100%;
 }
 
@@ -203,6 +204,8 @@ input:focus{
     border-radius: 50%;
     border:1px solid var(--borders);
     background-color: var(--background-input);
+    color: var(--second-text);
+    cursor: pointer;
 }
 
 #user-foto{
