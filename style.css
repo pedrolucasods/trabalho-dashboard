@@ -437,10 +437,10 @@ input:focus{
 
 .text-atividades{
     background: none;
+    width: 50%;
 }
 
 .infos-atividades p{
-    align-self: center;
     color: var(--second-text);
 }
 
