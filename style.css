@@ -717,7 +717,13 @@ input:focus{
         display: none;
     }
 
+    .progress-box{
+        width: 100%;
+    }
 
+    .progress-box progress{
+        width: 100%;
+    }
     .status{
         width: 1px;
         height: 2px;
